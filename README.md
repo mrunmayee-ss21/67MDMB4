@@ -4,9 +4,13 @@ Edited this file
 <!DOCTYPE html>
 <html>
 <head>
+    
     <title>GitHub Task 1</title>
 </head>
 <body>
+     <p>
+        Made changes
+    </p>
     <h1>Git and GitHub</h1>
     <p>This index.html file is created for Task 1.</p>
 </body>
