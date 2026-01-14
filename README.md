@@ -1,2 +1,13 @@
 # 67MDMB4
 This is new repository
+Edited this file
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Task 1</title>
+</head>
+<body>
+    <h1>Git and GitHub</h1>
+    <p>This index.html file is created for Task 1.</p>
+</body>
+</html>
